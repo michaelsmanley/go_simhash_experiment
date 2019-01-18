@@ -33,8 +33,8 @@ export SHE_dbuser=pgs
 
 ### To Run
 
-```bash
-/simhash -n 18436187482098755291 -s 90 -d 7
+```
+./simhash -n 18436187482098755291 -s 90 -d 7
 
 Looking for hash 18436187482098755291 (ffda7ed5faffe6db), distance 7, since 90 days ago
 533440 hashes returned
