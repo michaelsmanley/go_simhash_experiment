@@ -1,0 +1,8 @@
+github.com/go-dedup/megophone v0.0.0-20170830025436-f01be21026f5 h1:4U+x+EB1P66zwYgTjxWXSOT8vF+651Ksr1lojiCZnT8=
+github.com/go-dedup/megophone v0.0.0-20170830025436-f01be21026f5/go.mod h1:poR/Cp00iqtqu9ltFwl6C00sKC0HY13u/Gh05ZBmP54=
+github.com/go-dedup/simhash v0.0.0-20170904020510-9ecaca7b509c h1:mucYYQn+sMGNSxidhleonzAdwL203RxhjJGnxQU4NWU=
+github.com/go-dedup/simhash v0.0.0-20170904020510-9ecaca7b509c/go.mod h1:gO3u2bjRAgUaLdQd2XK+3oooxrheOAx1BzS7WmPzw1s=
+github.com/go-dedup/text v0.0.0-20170907015346-8bb1b95e3cb7 h1:11wFcswN+37U+ByjxdKzsRY5KzNqqq5Uk5ztxnLOc7w=
+github.com/go-dedup/text v0.0.0-20170907015346-8bb1b95e3cb7/go.mod h1:wSsK4VOECOSfSYTzkBFw+iGY7wj59e7X96ABtNj9aCQ=
+github.com/lib/pq v1.0.0 h1:X5PMW56eZitiTeO7tKzZxFCSpbFZJtkMMooicw2us9A=
+github.com/lib/pq v1.0.0/go.mod h1:5WUZQaWbwv1U+lTReE5YruASi9Al49XbQIvNi/34Woo=
