@@ -8,3 +8,5 @@ github.com/go-dedup/text
 # github.com/lib/pq v1.0.0
 github.com/lib/pq
 github.com/lib/pq/oid
+# github.com/tjarratt/babble v0.0.0-20140317234543-2cf06e8d98b0
+github.com/tjarratt/babble
