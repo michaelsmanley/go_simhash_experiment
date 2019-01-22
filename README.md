@@ -34,7 +34,7 @@ export SHE_dbuser=pgs
 ### To Run
 
 ```
-./simhash -n 18436187482098755291 -s 90 -d 7
+simhash -n 18436187482098755291 -s 90 -d 7
 
 Looking for hash 18436187482098755291 (ffda7ed5faffe6db), distance 7, since 90 days ago
 533440 hashes returned
@@ -50,4 +50,17 @@ The experiment takes the following command line arguments:
 `-s`: The window backwards from now in days. Default is `10000` which should pick up all hashes for all time in the database.
 
 `-d`: The Hamming distance to search for.
+
+### To Populate
+
+We are going to want to test this on a much larger corpus of simhashes than we currently have available, so the `populate` directory contains a little utility that will create random documents, simhash them, and stuff those simhash records into the database.
+
+To add 1,000,000 records to the DB:
+
+```
+populate -c 1000000
+```
+
+Expect this to take quite some time.
+
 
